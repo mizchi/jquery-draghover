@@ -1,0 +1,16 @@
+{
+  "name": "jquery-draghover",
+  "version": "0.0.0",
+  "authors": [
+    "Koutarou Chikuba <miz404@gmail.com>"
+  ],
+	"mainl": "jquery.draghover.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
