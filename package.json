@@ -1,5 +1,5 @@
 {
-  "name": "jquery-draghover",
+  "name": "@mizchi/jquery-draghover",
   "version": "1.0.0",
   "description": "",
   "main": "jquery.draghover.js",
